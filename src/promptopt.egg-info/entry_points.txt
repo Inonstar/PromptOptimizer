@@ -1,0 +1,2 @@
+[console_scripts]
+promptopt = promptopt.cli:main
